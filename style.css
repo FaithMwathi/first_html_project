@@ -87,10 +87,11 @@ width: 40px;
 margin-right: 25px;
 }
 .feature-img{
-    height: 90%;
-    width: 500px;
+    height: 70%;
+    width: 400px;
     position: absolute;
-    bottom: 0;
+    bottom: 20;
+    top: 150px;
     right: 50px;
     color: mediumorchid;
 
